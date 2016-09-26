@@ -1,0 +1,65 @@
+﻿生成启动时间为 2016/9/26 17:38:51。
+     1>项目“F:\RobotTeaching\RobotTeaching\RobotTeaching.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RobotTeaching.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         c:\software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\RobotTeaching.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RobotTeachingDlg.cpp
+         RobotTeachingDlg.cpp
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(65): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(67): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(204): warning C4101: “space”: 未引用的局部变量
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(198): warning C4101: “nRes”: 未引用的局部变量
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(203): warning C4101: “trap”: 未引用的局部变量
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(235): warning C4101: “space”: 未引用的局部变量
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(430): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(431): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(432): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(433): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(434): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(536): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(538): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(539): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\robotteaching\robotteaching\robotteachingdlg.cpp(540): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\RobotTeaching\Debug\RobotTeaching.exe" /INCREMENTAL /NOLOGO gts.lib NIDAQmx.lib /MANIFEST /ManifestFile:"Debug\RobotTeaching.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\RobotTeaching\Debug\RobotTeaching.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\RobotTeaching\Debug\RobotTeaching.lib" /MACHINE:X86 Debug\RobotTeaching.res
+         Debug\RobotTeaching.exe.embed.manifest.res
+         Debug\Inverse_kine.obj
+         Debug\RobotTeaching.obj
+         Debug\RobotTeachingDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RobotTeaching.exe.embed.manifest" /manifest Debug\RobotTeaching.exe.intermediate.manifest c:\software\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RobotTeaching.vcxproj -> F:\RobotTeaching\Debug\RobotTeaching.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RobotTeaching.unsuccessfulbuild”。
+         正在对“Debug\RobotTeaching.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\RobotTeaching\RobotTeaching\RobotTeaching.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.53

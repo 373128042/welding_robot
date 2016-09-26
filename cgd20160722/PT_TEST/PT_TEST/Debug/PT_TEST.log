@@ -1,0 +1,80 @@
+﻿生成启动时间为 2016/9/25 16:07:02。
+     1>项目“F:\cgd20160722\PT_TEST\PT_TEST\PT_TEST.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\PT_TEST.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\PT_TEST.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\software\VS2010\VC\bin\CL.exe /c /IF:\cgd20160722\PT_TEST\PT_TEST /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Calculate.cpp Inverse_kine.cpp PT_TEST.cpp Read_AD.cpp
+         Read_AD.cpp
+         PT_TEST.cpp
+     1>PT_TEST.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>PT_TEST.cpp(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>PT_TEST.cpp(29): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>PT_TEST.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>PT_TEST.cpp(37): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>PT_TEST.cpp(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>PT_TEST.cpp(211): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(128) : 参见“getch”的声明
+     1>PT_TEST.cpp(50): warning C4101: “prfPos6”: 未引用的局部变量
+         Inverse_kine.cpp
+         Calculate.cpp
+     1>Calculate.cpp(51): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(130) : 参见“kbhit”的声明
+     1>Calculate.cpp(53): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(128) : 参见“getch”的声明
+     1>Calculate.cpp(190): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Calculate.cpp(214): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(130) : 参见“kbhit”的声明
+     1>Calculate.cpp(216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(128) : 参见“getch”的声明
+     1>Calculate.cpp(247): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(250): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(268): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(270): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(272): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\software\VS2010\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>Calculate.cpp(308): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\software\VS2010\VC\include\conio.h(128) : 参见“getch”的声明
+     1>Calculate.cpp(15): warning C4101: “space”: 未引用的局部变量
+         正在生成代码...
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\PT_TEST.res" PT_TEST.rc 
+       Link:
+         c:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\cgd20160722\PT_TEST\Debug\PT_TEST.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:F:\cgd20160722\PT_TEST\PT_TEST NIDAQmx.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PT_TEST.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\cgd20160722\PT_TEST\Debug\PT_TEST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\cgd20160722\PT_TEST\Debug\PT_TEST.lib" /MACHINE:X86 Debug\PT_TEST.res
+         Debug\Calculate.obj
+         Debug\Inverse_kine.obj
+         Debug\PT_TEST.obj
+         Debug\Read_AD.obj
+         gts.lib
+         PT_TEST.vcxproj -> F:\cgd20160722\PT_TEST\Debug\PT_TEST.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\cgd20160722\PT_TEST\Debug\PT_TEST.exe;#1" /manifest Debug\PT_TEST.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\PT_TEST.unsuccessfulbuild”。
+         正在对“Debug\PT_TEST.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\cgd20160722\PT_TEST\PT_TEST\PT_TEST.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.12
